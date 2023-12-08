@@ -1,0 +1,107 @@
+Step Details
+Info Version: 1.2
+Step name: 
+StartDate (firstEEGtimestamp): 0
+StartDate (firstSTIMtimestamp): 1660242299103
+Device class: STARSTIM
+Communication type: USB
+Device ID: COM6
+Software's version: NIC v2.0.11.5
+Firmware's version: 4021
+Operative system: Windows
+SDCard Filename: NONE
+Additional channel: NONE
+Accelerometer data: ON
+
+Number of channels of Accelerometer: 3
+Accelerometer sampling rate: 100 Samples/second
+Accelerometer units: mm/s^2
+
+STIM Settings
+Total number of channels: 8
+Number of records of Stimulation: 0
+Stimulation sampling rate: 1000 Samples/second
+Effective STIM sampling rate: N/A
+Stimulation units: uA
+Number of stimulation channels: 2
+Ramp up duration (s): 30
+Ramp down duration (s): 30
+Sham ramp duration (s): 0
+Stimulation configured duration (s): 1200
+Stimulation parameters:
+	Channel 1: 
+		Position: C3
+		Type: Stimulation
+		Atdcs (uA): 2000
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 2: 
+		Position: Fp2
+		Type: Stimulation
+		Atdcs (uA): -2000
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 3: 
+		Position: Ch3
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 4: 
+		Position: Ch4
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 5: 
+		Position: Ch5
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 6: 
+		Position: Ch6
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 7: 
+		Position: Ch7
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+	Channel 8: 
+		Position: Ch8
+		Type: Not used
+		Atdcs (uA): 0
+		Atacs (uA): 0
+		Ftacs (Hz): 0
+		Ptacs (º): 0
+		Atrns (uA): 0
+
+Trigger information:
+	Code	Description
+	1	
+	2	
+	3	
+	4	
+	5	
+	6	
+	7	
+	8	
+	9	
