@@ -1,8 +1,5 @@
 # stimMAP_2022_public
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amindeh" alt="Amin Dehghani's GitHub Stats" />
-
 ## <span style="font-family: 'Times New Roman'; font-size: 28px;">Summary and Requirements</span>
 
 ### <span style="font-family: 'Verdana'; font-size: 24px;">Experimental Design</span>
