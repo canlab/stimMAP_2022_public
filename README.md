@@ -1,7 +1,5 @@
 # stimMAP_2022_public
 
-## <span style="font-family: 'Times New Roman'; font-size: 28px;">Summary and Requirements</span>
-
 ### <span style="font-family: 'Verdana'; font-size: 24px;">Experimental Design</span>
 
 <span style="font-family: 'Courier New'; font-size: 20px;">
