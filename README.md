@@ -64,9 +64,9 @@ Here is the link to the data and codes for this project:
 [Data and Codes for Experimental Sessions](https://github.com/canlab/stimMAP_2022_public)
 </span>
 
-### <span style="font-family: 'Verdana'; font-size: 24px;">Data and Codes</span>
+### <span style="font-family: 'Verdana'; font-size: 24px;">Publication</span>
 
 <span style="font-family: 'Courier New'; font-size: 20px;">
 Here is the publication link for this project:  
-[Data and Codes for Experimental Sessions](https://journals.lww.com/pain/fulltext/2025/01000/independent_effects_of_transcranial_direct_current.13.aspx)
+(https://journals.lww.com/pain/fulltext/2025/01000/independent_effects_of_transcranial_direct_current.13.aspx)
 </span>
